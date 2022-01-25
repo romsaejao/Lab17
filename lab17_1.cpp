@@ -61,7 +61,7 @@ for(int i=0;i<(int)names.size();i++)
 		  {
 			 check = 1;
 			 cout << names[i] << "'s score = " << scores[i]<<endl;
-			 cout << names[i] << "'s grade = "	<< grades[i]<<endl; 
+			 cout << names[i] << "'s grade = " << grades[i]<<endl; 
 		  }
 	}
 if(check==0)
